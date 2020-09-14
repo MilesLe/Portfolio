@@ -1,7 +1,7 @@
 # Portfolio
 
 Here I have a collection of my work.
-1. I have included a subset of my art portfolio which highlights my a personal and creative side of me. I use my art to communicate ideas or stories nonconventionally and poetically. 
+1. I have included a subset of my art portfolio which highlights a personal and creative side of me. I use my art to express myself and communicate ideas/stories nonconventionally and poetically. 
 2. I also have included some programming projects:
   - The Arduino Leap Motion project showcases my ability to work with API's and complex sensors with robotics. 
   - The Neural Network project demonstrates my eagerness and curiosity to learn about machine learning models. Despite not having the required math knowledge to implement complex models, I used my understanding of biology to implement a machine learning model inspired by genetics. I programmed my model without aid from a machine learning API or library. This project's purpose was to educate and motivate myself, not to build an effective model. 
